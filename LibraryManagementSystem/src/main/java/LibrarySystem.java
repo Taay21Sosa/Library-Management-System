@@ -1,9 +1,9 @@
 /**
- * Assignment:      Formative Assessment 2 (Knowledge Module 02)
- * Student Name:    Teboho Katleho Emmanuel Monaheng
- * Student Number:  20251475
- * Course:          Occupational Certificate: Software Engineer (Level 1 of 2)
- * Institution:     CTU Training Solutions
+ * Assignment:      ********* ********** * ********* ****** **
+ * Student Name:    ****** ******* ******** ********
+ * Student Number:  ********
+ * Course:          ************ ********** Software Engineer ***** * ** *
+ * Institution:     *** ******** *********
  *
  * Program details:
  * Library Management System in Java
@@ -1351,3 +1351,4 @@ public class LibrarySystem {
     }
 
 }
+
