@@ -30,7 +30,7 @@ This project is build as a Library Management System that will store, search, an
 Link to the sample section: [Link Text](#sample-section).
 1. Install these:
    
-   - [Java Development Kit (JDK)](https://www.oracle.com/africa/java/technologies/downloads/).
+   - [Java SE Development Kit (JDK)](https://www.oracle.com/africa/java/technologies/downloads/).
    - Integrated development environment Software / java (Choose one)
      - [Intellij Idea Ultimate/Community](https://lp.jetbrains.com/intellij-idea-promo/?source=google&medium=cpc&campaign=EMEA_en_AFRICA_IDEA_Branded&term=intellij%20idea&content=693349187736&gad_source=1&gad_campaignid=9736964638&gbraid=0AAAAADloJzhiU-Ux6ZhORL6v-jCaVJ6Th&gclid=EAIaIQobChMIjLiMooHxjwMVxIBQBh3DLAeuEAAYASAAEgL9lfD_BwE)
      - [Netbeans](https://netbeans.apache.org/front/main/index.html)
