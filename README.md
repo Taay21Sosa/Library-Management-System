@@ -27,7 +27,6 @@ This project is build as a Library Management System that will store, search, an
 - 🎲 **Recommend Book:** Recommends a random book from the library.
 
 ## 🚀 How to Run Library-Management-System.
-Link to the sample section: [Link Text](#sample-section).
 1. Install these:
    
    - [Java SE Development Kit (JDK)](https://www.oracle.com/africa/java/technologies/downloads/).
