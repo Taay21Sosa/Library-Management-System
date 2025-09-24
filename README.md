@@ -55,6 +55,24 @@ The Java program contains code and comments that are not fully optimized. The co
 
 Copyright (c) 2025-present, Taay21Sosa, T.Monaheng.
 
+<!-- Profile Section -->
+<!--
+<hr>
+
+# <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="28"></a> Hey there, I'm <a href="https://www.linkedin.com/">Taay Sosa</a> 👨🏻‍💻
+
+<a href="https://github.com/harismuneer"><img src="https://img.shields.io/github/stars/" alt="Total Github Stars"></a>
+<a href="https://github.com/harismuneer?tab=followers"><img src="https://img.shields.io/github/followers/" alt="Total Github Followers"></a>
+
+<hr>
+
+- <b>🛠️ Software Engineer:</b> Agile Product Manager with 5+ years of hands-on experience delivering SaaS solutions across sales, recruiting, AI, social media, and public sector domains. Background in Computer Science, with a proven track record of scaling products from inception to $XXM+ ARR, launching 3 top-ranking tools on Product Hunt, and developing solutions adopted by 250+ B2B clients in 40+ countries.  
+ 
+- <b>🌟 Open Source Advocate:</b> Passionate about making technology accessible, I’ve developed and open-sourced several software projects for web, mobile, desktop, and AI on my <a href="https://github.com/">GitHub profile</a>. These projects have been used by thousands of learners worldwide to enhance their skills and knowledge.
+
+- <b>📫 How to Reach Me:</b> To learn more about my skills and work, visit my <a href="https://www.linkedin.com/">LinkedIn profile</a>. For collaboration or inquiries, feel free to reach out via <a href="mailto:haris.muneer5@gmail.com">email</a>.
+
+
 ## 🤝 Follow My Journey
 <p align="left">
   <a href="https://www.linkedin.com"><img title="Follow Taay Sosa on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -62,3 +80,4 @@ Copyright (c) 2025-present, Taay21Sosa, T.Monaheng.
   <a href="https://www.youtube.com"><img title="Subscribe on YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
   <a href="https://www.gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+-->
