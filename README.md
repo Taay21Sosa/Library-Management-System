@@ -1,5 +1,5 @@
 # Library-Management-System.
-The system was build as a Library Management System that will store, search, and manage books. The system demonstrates an understanding of Lists, Collections, Stacks, Queues, Sorting/Searching algorithms, and OOP concepts including Inheritance and Polymorphism.
+This project is build as a Library Management System that will store, search, and manage books. The system demonstrates an understanding of Lists, Collections, Stacks, Queues, Sorting/Searching algorithms, and OOP concepts including Inheritance and Polymorphism.
 
  https://github.com/user-attachments/assets/871d5a10-f09b-4e2a-8e80-c23087c65216 
  <!-- ![Library-Management-System Demo](assets/demo.gif) -->
