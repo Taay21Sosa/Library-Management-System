@@ -29,11 +29,13 @@ This project is build as a Library Management System that will store, search, an
 ## 🚀 How to Run Library-Management-System.
 Link to the sample section: [Link Text](#sample-section).
 1. Install these:
-  - [Java Development Kit (JDK)](https://www.oracle.com/africa/java/technologies/downloads/).
-  - Integrated development environment Software / java (Choose one)
-    - [Intellij Idea Ultimate/Community](https://lp.jetbrains.com/intellij-idea-promo/?source=google&medium=cpc&campaign=EMEA_en_AFRICA_IDEA_Branded&term=intellij%20idea&content=693349187736&gad_source=1&gad_campaignid=9736964638&gbraid=0AAAAADloJzhiU-Ux6ZhORL6v-jCaVJ6Th&gclid=EAIaIQobChMIjLiMooHxjwMVxIBQBh3DLAeuEAAYASAAEgL9lfD_BwE)
-    - [Netbeans](https://netbeans.apache.org/front/main/index.html)
-    - [Ellipse IDE](https://eclipseide.org/)
+   
+   - [Java Development Kit (JDK)](https://www.oracle.com/africa/java/technologies/downloads/).
+   - Integrated development environment Software / java (Choose one)
+     - [Intellij Idea Ultimate/Community](https://lp.jetbrains.com/intellij-idea-promo/?source=google&medium=cpc&campaign=EMEA_en_AFRICA_IDEA_Branded&term=intellij%20idea&content=693349187736&gad_source=1&gad_campaignid=9736964638&gbraid=0AAAAADloJzhiU-Ux6ZhORL6v-jCaVJ6Th&gclid=EAIaIQobChMIjLiMooHxjwMVxIBQBh3DLAeuEAAYASAAEgL9lfD_BwE)
+     - [Netbeans](https://netbeans.apache.org/front/main/index.html)
+     - [Ellipse IDE](https://eclipseide.org/)
+
 2. Download the "Library-Management-System" folder.
 3. Open your IDE of choice.
 4. Open the downladed project folder and browse to the downloaded folder named "Library-Management-System" and select it. This should load the Java project.
@@ -41,11 +43,14 @@ Link to the sample section: [Link Text](#sample-section).
 6. Now you are ready to run the project!
 
 ## 👨‍💻 Authors
+#### Taay Sosa
+[![GitHub Follow](https://img.shields.io/badge/Connect-TaaySosa-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/Taay21Sosa)
 
 If you liked this repo then kindly support it by giving it a star ⭐ and share it with your friends so that more people can benefit from the effort.
 
 ## ⚠️ Issues
-The Java program contains code and comments that are not fully optimized. The code may include redundant sections, unoptimized logic, and inefficient algorithms. The comments are also inconsistent, with some sections having no comments, others containing poorly written explanations, and some comments not accurately reflecting the code's function. 
+The project may contain code and comments that are not fully optimized. The code may include redundant sections, unoptimized logic, and inefficient algorithms. The comments are also inconsistent, with some sections having no comments, others containing poorly written explanations, and some comments not accurately reflecting the code's function. 
+> [!NOTE]
 > Despite these issues, the program is designed to be functional, and it's expected to run without critical errors. This is a temporary state, and future updates will include a thorough code cleanup and optimization process. 🧹
 
 ## ⚖️ License
